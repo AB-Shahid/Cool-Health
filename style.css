@@ -6,7 +6,7 @@ body{
 
 .container{
     margin: 0;
-    padding: 0%;
+    padding: 0 50px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     display: flex;
     align-items: center;
@@ -14,7 +14,7 @@ body{
 }
 .header{
     
-    display: flex;
+    position: relative;
     align-items: center;
     justify-content: space-between;
 }
